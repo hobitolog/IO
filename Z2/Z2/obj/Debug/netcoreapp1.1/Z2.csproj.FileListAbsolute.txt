@@ -1,0 +1,10 @@
+c:\users\hobit\source\repos\Z2\Z2\bin\Debug\netcoreapp1.1\Z2.deps.json
+c:\users\hobit\source\repos\Z2\Z2\bin\Debug\netcoreapp1.1\Z2.runtimeconfig.json
+c:\users\hobit\source\repos\Z2\Z2\bin\Debug\netcoreapp1.1\Z2.runtimeconfig.dev.json
+c:\users\hobit\source\repos\Z2\Z2\bin\Debug\netcoreapp1.1\Z2.dll
+c:\users\hobit\source\repos\Z2\Z2\bin\Debug\netcoreapp1.1\Z2.pdb
+c:\users\hobit\source\repos\Z2\Z2\obj\Debug\netcoreapp1.1\Z2.csprojResolveAssemblyReference.cache
+c:\users\hobit\source\repos\Z2\Z2\obj\Debug\netcoreapp1.1\Z2.csproj.CoreCompileInputs.cache
+c:\users\hobit\source\repos\Z2\Z2\obj\Debug\netcoreapp1.1\Z2.AssemblyInfo.cs
+c:\users\hobit\source\repos\Z2\Z2\obj\Debug\netcoreapp1.1\Z2.dll
+c:\users\hobit\source\repos\Z2\Z2\obj\Debug\netcoreapp1.1\Z2.pdb

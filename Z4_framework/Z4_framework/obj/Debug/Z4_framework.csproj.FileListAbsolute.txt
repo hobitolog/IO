@@ -1,0 +1,7 @@
+c:\users\hobit\source\repos\Z4_framework\Z4_framework\bin\Debug\Z4_framework.exe.config
+c:\users\hobit\source\repos\Z4_framework\Z4_framework\bin\Debug\Z4_framework.exe
+c:\users\hobit\source\repos\Z4_framework\Z4_framework\bin\Debug\Z4_framework.pdb
+c:\users\hobit\source\repos\Z4_framework\Z4_framework\obj\Debug\Z4_framework.csprojResolveAssemblyReference.cache
+c:\users\hobit\source\repos\Z4_framework\Z4_framework\obj\Debug\Z4_framework.csproj.CoreCompileInputs.cache
+c:\users\hobit\source\repos\Z4_framework\Z4_framework\obj\Debug\Z4_framework.exe
+c:\users\hobit\source\repos\Z4_framework\Z4_framework\obj\Debug\Z4_framework.pdb

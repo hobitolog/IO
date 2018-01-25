@@ -1,0 +1,5 @@
+Withdraw cash,
+
+Search documents, //search to wiemy czego szukamy brwose jak szukamy ale nie do konca wiemy czego
+
+Cancel appointment.
